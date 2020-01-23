@@ -4,6 +4,7 @@ This is a Data Analytics project. We analyzed tweets during the Impeachment Hear
 Political tweets analysis :
 
 Our goal in this analysis is to determine whether people are for or against the impeachment based on tweets during the impeachment hearing. Furthermore we want to map this orientation per state. Political discourse on social media is becoming common practice, especially around election time.
+For this we'll be using NLP methods with sentiment analysis.
 
 Here are few visualization we got after our analysis:
 
